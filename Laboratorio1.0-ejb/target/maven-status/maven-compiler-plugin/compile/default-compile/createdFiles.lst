@@ -1,0 +1,16 @@
+com\udea\DiscountCode.class
+com\udea\Manufacturer.class
+com\udea\MicroMarket_.class
+com\udea\NewSessionBean.class
+com\udea\Product_.class
+com\udea\DiscountCode_.class
+com\udea\MicroMarket.class
+com\udea\Product.class
+com\udea\PurchaseOrder.class
+com\udea\Customer.class
+com\udea\ProductCode.class
+com\udea\ProductCode_.class
+com\udea\Customer_.class
+com\udea\Manufacturer_.class
+com\udea\PurchaseOrder_.class
+.netbeans_automatic_build
